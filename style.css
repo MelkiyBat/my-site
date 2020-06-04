@@ -38,12 +38,23 @@ body {
 
 .header-email {
   padding-left: 30px;
-  background-image: url("img/icon-email.svg");
+  background-image: url("img/icon-mail.png");
 }
 
-.header-phone {
+
+.header-vk {
   padding-left: 25px;
-  background-image: url("img/icon-phone.svg");
+  background-image: url("img/icon-vk.png");
+}
+
+.header-ig {
+  padding-left: 25px;
+  background-image: url("img/icon-ig.png");
+}
+
+.header-bh {
+  padding-left: 25px;
+  background-image: url("img/icon-bh.png");
 }
 
 .hero-image {
@@ -114,6 +125,10 @@ body {
   background-image: url("img/icon-css.svg");
 }
 
+.skill-web {
+  background-image: url("img/icon-web.png");
+}
+
 .level {
   margin: 4px 0 16px;
   padding: 0;
@@ -180,10 +195,20 @@ body {
 
 .footer-email {
   padding-left: 30px;
-  background-image: url("img/icon-email.svg");
+  background-image: url("img/icon-mail.png");
 }
 
-.footer-phone {
+.footer-vk {
+  padding-left: 24px;
+  background-image: url("img/icon-vk.png");
+}
+
+.footer-ig {
   padding-left: 25px;
-  background-image: url("img/icon-phone.svg");
+  background-image: url("img/icon-ig.png");
+}
+
+.footer-bh {
+  padding-left: 25px;
+  background-image: url("img/icon-bh.png");
 }
